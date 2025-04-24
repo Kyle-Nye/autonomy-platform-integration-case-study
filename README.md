@@ -1,4 +1,5 @@
 # 🚗 Autonomy Platform Integration & Experimentation – Case Study
+[![AV Integration Testing Workflow](assets/av-integration-testing-workflow.png)](assets/av-integration-testing-workflow.png)
 
 This project documents a specialized integration effort involving retrofitting a vehicle platform with custom autonomy hardware and compute systems. Conducted under a confidentiality agreement, the details here are generalized but reflect real-world responsibilities in system integration, sensor calibration, and experimental validation.
 
