@@ -1,0 +1,44 @@
+# 🧠 Lessons Learned – AV Platform Integration Project
+
+Through this advanced integration project, I gained valuable insights that strengthened my understanding of autonomous system engineering and experimentation. Here's what stood out:
+
+---
+
+## 🔧 Hardware-Software Sync Is Everything
+
+- System reliability depends not only on hardware quality but on **precise alignment, mounting, and calibration**.
+- Even small misalignments in sensor placement can result in measurable perception drift or false positives.
+
+---
+
+## ⚙️ Non-Standard Configs = Custom Thinking
+
+- Working with a configuration different from the primary fleet forced me to **think modularly** and **troubleshoot creatively**.
+- Standard tooling often needed adaptation — valuable experience in tool customization and operational flexibility.
+
+---
+
+## 📊 Structured Testing Saves Time
+
+- Creating a clear test matrix before deployment made each run efficient and focused.
+- Logging tools and scenario planning helped reduce redundant testing and surfaced edge cases faster.
+
+---
+
+## 🤝 Cross-Team Communication = Critical
+
+- Daily collaboration with calibration engineers, safety drivers, and software leads highlighted the importance of **clear, documented communication** in high-stakes environments.
+
+---
+
+## 🔁 Iteration Is the Norm
+
+- Each data run informed the next — calibrations were tuned, sensors re-aligned, and systems refined incrementally.
+- Learned how to **work in tight feedback loops** under experimental conditions.
+
+---
+
+## 📁 Takeaway
+
+This experience deepened my ability to work across hardware/software boundaries, operate under strict validation procedures, and deliver high-integrity results in safety-critical systems.
+
