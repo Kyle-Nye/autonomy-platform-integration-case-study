@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Log files
+*.log
+
+# Temp and backup files
+*.tmp
+*.bak
+*~
+
+# Image edit backups or raw exports
+*.psd
+*.xcf
+
+# Markdown preview temp files
+*.md~ 
+
+# Optional: Ignore analytics exports or local data dumps
+*.csv
+*.xlsx
+
+# Optional: Ignore generated assets (if any)
+assets/generated/
